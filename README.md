@@ -54,7 +54,7 @@ KAHOOT_ID = 729004
 Controls how many separate processes/browser instances are launched.
 
 ```python
-NUMBER_OF_BOTS = 30
+NUMBER_OF_BOTS = 3
 ```
 
 ### `KAHOOT_ID`
@@ -62,7 +62,7 @@ NUMBER_OF_BOTS = 30
 The game PIN that each bot attempts to join.
 
 ```python
-KAHOOT_ID = 729004
+KAHOOT_ID = 000000
 ```
 
 ## How It Works
